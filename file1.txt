@@ -13,7 +13,7 @@ drwx------   2 root root   16384 Apr 10  2019 lost+found
 drwxr-xr-x   2 root root    4096 Jan  4  2023 media
 drwxr-xr-x   6 root root    4096 Apr 11 19:40 mnt
 drwxr-xr-x   3 root root    4096 Apr 11 18:40 opt
-dr-xr-xr-x 181 root root       0 Sep  9 18:25 proc
+dr-xr-xr-x 182 root root       0 Sep  9 18:25 proc
 drwx------   2 root root    4096 Apr 11 19:42 root
 drwxr-xr-x   7 root root     140 Sep  9 18:38 run
 lrwxrwxrwx   1 root root       8 Jan  4  2023 sbin -> usr/sbin
